@@ -1,0 +1,137 @@
+body{
+    font-family:"arial", sans-serif;
+    letter-spacing: 2px;
+    margin:auto;
+    width:50%;
+    padding-left: 20px;
+    background-image: url(bg-01-03.png);
+    background-size:1200px;
+
+}
+
+#titleblock{
+    padding-top: 60px;
+    padding-left: 50px;
+    font-size: 30;
+    font-weight: bold;
+    letter-spacing: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+#titleblock a{
+    color:black;
+}
+
+#titleblock a:hover{
+    color:#0047AB;
+}
+
+.one{
+    width:0px;
+    padding-top:190px;
+    padding-left:0px;
+    float:left;
+}
+
+#arch{
+    width:0px;
+    transform: rotate(270deg);
+    float:left;
+    letter-spacing: 3;  
+}
+
+.archlist{
+    padding-top:30px;
+    font-size: 14px;
+    line-height: 10px;
+    
+}
+
+#termone{
+    float:left;
+    font-weight:bold;
+    height:440px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#termtwo{
+    float:left;
+    font-weight:bold;
+    height:300px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#archproj{
+    left:100px;
+}
+
+.two{
+    width:0px;
+    float:left;
+    padding-top:100px; 
+}
+
+#design{
+    width:0px;
+    transform: rotate(270deg);
+    letter-spacing: 3; 
+}
+
+.deslist{
+    padding-top:30px;
+    font-size: 14px;
+    line-height: 10px;
+}
+
+.designproj{
+    left:100px;
+}
+
+.three{
+    width:0px;
+    float:right;
+    font-size:18px;
+    letter-spacing:3;
+    padding-right:120px;
+    padding-top:11px;
+}
+
+.three a{
+    color:black;
+}
+
+#abt{
+    width:0px;
+    transform: rotate(90deg);
+    letter-spacing: 3; 
+}
+
+.four{
+    width:0px;
+    float:right; 
+    padding-top:20px;
+    padding-right:40px;
+}
+
+.shit{
+    padding-top:10px;
+}
+
+#archproj a{
+    color:black;
+}
+
+#archproj a:hover{
+    color:#0047AB;
+}
+
+#desproj a{
+    color:black;
+}
+
+#desproj a:hover{
+    color:#0047AB;
+}
