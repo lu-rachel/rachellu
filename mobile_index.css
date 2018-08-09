@@ -2,10 +2,10 @@ body{
     font-family:"arial", sans-serif;
     letter-spacing: 2px;
     margin:auto;
-    width:50%;
+    width:80%;
     padding-left: 20px;
     background-image: url(bg-01-03.png);
-    background-size:1200px;
+    background-size:400px;
 
 }
 
@@ -156,6 +156,3 @@ body{
     color:#0047AB;
 }
 
-.fuck {
-    font-size: 
-}
