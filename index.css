@@ -11,8 +11,7 @@ body{
 
 @media only screen and (max-width:800px) {
     body{
-        width:80%;
-        
+        width:80%; 
     }
 }
 
@@ -22,7 +21,7 @@ body{
     }
 }
 
-@media only screen and (max-width:100px) {
+@media only screen and (max-width:300px) {
     body{
         width:100%;
     }
@@ -64,6 +63,7 @@ body{
     padding-top:30px;
     font-size: 14px;
     line-height: 10px;
+    height:450px;
     
 }
 
@@ -153,4 +153,8 @@ body{
 
 #desproj a:hover{
     color:#0047AB;
+}
+
+.fuck {
+    font-size: 
 }
