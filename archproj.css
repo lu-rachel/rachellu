@@ -8,7 +8,19 @@ body{
 
 @media only screen and (max-width:800px) {
     body{
-        width:80%;
+        width:80%; 
+    }
+}
+
+@media only screen and (max-width:600px) {
+    body{
+        width:100%;
+    }
+}
+
+@media only screen and (max-width:100px) {
+    body{
+        width:100%;
     }
 }
 
@@ -99,6 +111,20 @@ body{
     float:left;
 }
 
+.eleven{
+    height: 1000px;
+    padding-top:225px;
+    padding-left:0px;
+    float:left;
+}
+
+.twelve{
+    height: 1000px;
+    padding-top:133px;
+    padding-left:0px;
+    float:left;
+}
+
 #name{
     width:0px;
     transform: rotate(270deg);
@@ -155,6 +181,7 @@ body{
     position:relative;
     margin:auto;
 }
+
 
 .slides{
     display:none;
